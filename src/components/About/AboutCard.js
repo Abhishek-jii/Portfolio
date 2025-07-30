@@ -11,7 +11,6 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Abhishek Sharma</span> from{" "}
             <span className="purple">Jaipur, India</span>.
             <br /><br />
-            <strong>Fitpage</strong>, a fitness tech startup.
             <br />
             I have completed my <strong>B.Tech in Computer Science</strong> from{" "}
             <strong>BIT Bangalore</strong>.
